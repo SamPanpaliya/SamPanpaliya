@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###👋 Hello, world! 
+### Hello, world!👋 
 I'm Samiksha Panpaliya, a Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning with honors in Full Stack Development.
 
 🚀 I'm passionate about coding, problem-solving, and building innovative projects. I love exploring technologies like Cloud Computing, AIML, and Web Development.
